@@ -1,5 +1,3 @@
----
-
 # QR Code Generator for Wi-Fi
 
 ## Description
@@ -70,5 +68,3 @@ If you have suggestions or improvements, please fork the repository and submit a
 ## Contact
 
 For any questions or issues, please contact maierhoratiu7@gmail.com.
-
----

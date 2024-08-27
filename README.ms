@@ -28,7 +28,7 @@ pip install qrcode[pil] PyQt5
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Horacious7/qr_code_generator_wifi.git
+   git clone https://github.com/Horacious7/QR_Generator_WIFI.git
    cd qr-code-generator-wifi
    ```
 
